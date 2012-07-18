@@ -9,7 +9,7 @@ module Gecko
 
     CHANNEL_TYPES = [
       :text, :map, :number, :rag, :rag_col, :line_chart,
-      :pie_chart, :gecko_meter, :funnel, :bullet
+      :pie_chart, :gecko_meter, :funnel, :bullet, :widget
     ]
 
     TEXT_NONE  = 0
